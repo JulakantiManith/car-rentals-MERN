@@ -127,9 +127,4 @@ Here’s a brief overview of the key API endpoints:
 - **React** - Frontend framework for building user interfaces
 - **Node.js** - JavaScript runtime for server-side development
 
----
 
-
-## License
-
-This project is open-source and available under the MIT License.
